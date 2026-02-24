@@ -1,0 +1,4 @@
+This is a sample data file for the organization.
+It contains important information that needs integrity protection.
+Any modification to this file will change its MD5 hash value.
+The hash value acts as a fingerprint for the file content.

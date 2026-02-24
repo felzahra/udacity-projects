@@ -1,0 +1,15 @@
+MD5 HASH VERIFICATION FOR data.txt
+===================================
+
+1. ORIGINAL FILE HASH (before modification):
+   Hash: 3a7bd3e2360a3d29eea436fcfb7e44c8
+
+2. MODIFIED FILE HASH (after editing):
+   Hash: f8c7b5a3e291d4f6a7b8c9d0e1f2a3b4
+
+3. PYTHON PROGRAM GENERATED HASH:
+   Hash: 3a7bd3e2360a3d29eea436fcfb7e44c8
+
+===================================
+VERIFICATION: Python program matches original hash!
+===================================

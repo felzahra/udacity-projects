@@ -1,0 +1,37 @@
+SECURE PASSWORD RULES
+=====================
+
+Rule 1: Minimum Length
+- Password must be at least 12 characters long
+- Longer passwords (16+ characters) are strongly recommended
+
+Rule 2: Character Diversity
+Password must contain at least:
+- 1 uppercase letter (A-Z)
+- 1 lowercase letter (a-z)
+- 1 digit (0-9)
+- 1 special character (!@#$%^&*()_+-=[]{}|;:,.<>?)
+
+Rule 3: Avoid Common Patterns
+- No sequential characters (abcd, 1234)
+- No repeated characters (aaa, 111)
+- No keyboard patterns (qwerty, asdfgh)
+- No personal information (names, birth dates, etc.)
+
+EXAMPLE PASSWORDS
+=================
+
+Example 1: G7k#9mP$x2@L
+- Length: 12 characters
+- Contains uppercase: G, P, L
+- Contains lowercase: k, m, x
+- Contains digits: 7, 9, 2
+- Contains special: #, $, @
+- No obvious patterns or sequences
+
+Example 2: J8p$3nR!w5qT&b2X
+- Length: 16 characters
+- Multiple uppercase and lowercase letters
+- Multiple digits and special characters
+- Complex and unpredictable pattern
+- Very strong against brute force attacks
